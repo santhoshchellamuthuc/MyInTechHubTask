@@ -1,0 +1,6 @@
+@MyInTechHubTask.API_HostAddress = http://localhost:5119
+
+GET {{MyInTechHubTask.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
